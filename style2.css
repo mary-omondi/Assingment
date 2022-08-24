@@ -1,0 +1,87 @@
+*{
+   box-sizing: border-box; 
+}
+body{
+    background-color: palevioletred;
+    font-size: medium;
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+body {
+    margin-left: 300px;
+}
+.lene {
+    top: 4rem;
+    margin-left: 500px;
+    position: fixed;
+    background-color: purple;
+    padding: 1rem;
+    box-shadow: 0.3rem 0.3rem rgb(191, 95, 191);
+    color: rgb(250, 148, 250);
+    font-size: 1rem;
+    
+}
+
+.mary {
+    margin-top: 200px;
+}
+div.favour {
+    margin-left: 500px;
+    position: fixed;
+    top:10rem ;
+    background-color: white;
+    padding: 1rem;
+}
+h5 {
+    background-color: green;
+    padding: 1rem;
+    box-shadow: 0.1rem 0.1rem rgb(112, 182, 112);
+    color: white;
+    margin-left: 0.5rem;
+    padding-left: 7rem;
+}
+h4 {
+    background-color: white;
+}
+span {
+    color: red;
+}
+.joy{
+    background-color: white;
+
+}
+.w{
+    padding: 1rem;
+    margin: 0.5rem;
+    padding-right: 20rem;
+
+}
+.r{
+    padding: 1rem;
+    margin: 0.5rem;
+    padding-right: 20rem;
+
+}
+.t{
+    padding: 1rem;
+    margin: 0.5rem;
+    padding-right: 20rem;
+}
+.y{
+    padding: 1rem;
+    margin: 0.5rem;
+    padding-right: 20rem;
+}
+h1{
+    color: white;
+    padding-right: 20rem;
+}
+p{
+    color: white;
+    padding-right: 20rem;
+}
+
+
+
+
